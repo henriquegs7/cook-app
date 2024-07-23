@@ -1,5 +1,5 @@
 ### Links
-🔴 **Figma do projeto:** [MyGoals App](https://www.figma.com/file/gKqByiFBzqBGhu8CLJmyLt/Cook-App?type=design&node-id=0%3A1&mode=dev&t=0eAw7KQmhzKnjais-1)
+🔴 **Figma do projeto:** [Cook App](https://www.figma.com/file/gKqByiFBzqBGhu8CLJmyLt/Cook-App?type=design&node-id=0%3A1&mode=dev&t=0eAw7KQmhzKnjais-1)
 
 ### Sobre o projeto
 
